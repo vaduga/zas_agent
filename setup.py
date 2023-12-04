@@ -22,7 +22,7 @@ setup(
     install_requires=[
         "daemonize == 2.4.2",
         "numpy == 1.22.0",
-        "redis >= 2.0.0",
+        "redis == 3.5.3",
         "simplejson >= 2.0.9"
     ]
     )
